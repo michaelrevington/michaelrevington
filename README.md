@@ -1,8 +1,5 @@
 
 # 👋 Hi, I’m Ravindu
-  
-
-![Profile](https://res.cloudinary.com/dlei6zssa/image/upload/v1693164643/DSC04445_hjzmrz.jpg) 
 
 <p>
 
@@ -13,11 +10,15 @@ I'm a self-taught programmer with a profound love for the intricacies of low-lev
 From the precise manipulation of memory to the optimization of performance-critical algorithms, I thrive in the realm where software interfaces with hardware at its most fundamental level. Their journey as a self-taught programmer has not only led them to understand the nuances of assembly languages, but also to harness the power of compilers, linkers, and other tools that translate human-readable code into machine-executable instructions.
 </p> 
 
+<p>
+
 <img  style="margin: 8px; width: 100px;" src="https://logosandtypes.com/wp-content/uploads/2020/07/kafka.png"> 
 <img  style="margin: 8px; width: 100px;"src="https://www.hivemq.com/img/svg/hivemq-header-logo.svg">
 <img  style="margin: 8px; width: 100px;"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png">
 <img  style="margin: 8px; width: 100px;"  src="https://www.svgrepo.com/show/349342/docker.svg">
 <img  style="margin: 8px; width: 100px;"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_logo_icon_146422.png">  
+
+</p>
 
 <hr  style="margin: 20px;">   
 <span align="center" style="margin-bottom: 5px">😂😂😂</span> 
