@@ -1,6 +1,4 @@
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Commissioner&family=Overlock&display=swap');
-
+<style> 
     hr {
         margin: 20px;
     }
