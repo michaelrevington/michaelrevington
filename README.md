@@ -18,11 +18,7 @@ From the precise manipulation of memory to the optimization of performance-criti
   <img  style="margin: 8px; width: 100px;" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_logo_icon_146422.png">  
 </p>
 
-<hr style="margin: 20px;"> 
-
-<p align="center">
-  <span style="margin-bottom: 5px">😂😂😂</span> 
-</p>
+<hr style="margin: 20px;">  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=michaelrevington&color=green&style=for-the-badge">
