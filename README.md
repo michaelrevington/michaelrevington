@@ -22,6 +22,9 @@ From the precise manipulation of memory to the optimization of performance-criti
 
 <p align="center">
   <span style="margin-bottom: 5px">😂😂😂</span> 
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=michaelrevington&color=green&style=for-the-badge">
 </p>
    
